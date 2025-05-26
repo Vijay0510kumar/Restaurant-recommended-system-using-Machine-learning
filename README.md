@@ -12,3 +12,4 @@ In this project I am building a recommendation system that will recommend us res
 we will be taking in dataset and train our model according to reviews it has and its location, using  Kmeans clustering.
 We will also see how to potray geogrophical data onto our colab file using plotly libraries( and geopandas) and more.
 Lastly we will build a basic function that will take geogrophical data as input and recommend restaurants to the user
+![Screenshot 2025-05-26 220104](https://github.com/user-attachments/assets/747802d4-55f0-42c8-8e4b-44131936a443)
